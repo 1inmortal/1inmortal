@@ -1,3 +1,10 @@
+# Mi Proyecto
+
+![Blue Image](IMG/Blue.jpeg)
+
+
+
+
 # 💫 sobre mi:
 Mi pasión por el desarrollo de software me ha llevado a especializarme tanto en front-end como en back-end, con el objetivo de crear soluciones integrales y escalables. Como estudiante de Ingeniería en Computación, tengo un profundo interés en la resolución de problemas y en la construcción de sistemas funcionales y eficientes. Actualmente, trabajo en una empresa dedicada al diseño y desarrollo de sistemas para la industria de la carpintería, donde contribuyo a la creación de herramientas tecnológicas innovadoras.
 
