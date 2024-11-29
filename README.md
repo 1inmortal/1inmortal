@@ -1,6 +1,6 @@
 # Mi Proyecto
 
-![Blue Image](IMG/Blue.jpeg)
+![Blue Image](IMG/F86AD18C-9FFB-401E-8409-1888D0A3C32F.jpeg)
 
 
 
