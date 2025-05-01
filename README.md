@@ -6,7 +6,7 @@
 
 
 # 💫 sobre mi:
-Mi pasión por el desarrollo de software me ha llevado a especializarme tanto en front-end como en back-end, con el objetivo de crear soluciones integrales y escalables. Como estudiante de Ingeniería en Computación, tengo un profundo interés en la resolución de problemas y en la construcción de sistemas funcionales y eficientes. Actualmente, trabajo en una empresa dedicada al diseño y desarrollo de sistemas para la industria de la carpintería, donde contribuyo a la creación de herramientas tecnológicas innovadoras.
+Mi pasión por el desarrollo de software me ha llevado a especializarme tanto en front-end como en back-end, con el objetivo de crear soluciones integrales y escalables. Como estudiante de Ingeniería en Computación, tengo un profundo interés en la resolución de problemas y en la construcción de sistemas funcionales y eficientes.   contribuyo a la creación de herramientas tecnológicas innovadoras.
 
 Más allá de mi trabajo, me esfuerzo constantemente por aprender nuevas tecnologías y mejorar mis habilidades. Me interesa particularmente el desarrollo con Nest.js, Angular y otras tecnologías que abarcan el desarrollo full-stack. Además, disfruto compartiendo mis conocimientos a través de contenido educativo sobre programación y tecnología en mis redes sociales.
 
