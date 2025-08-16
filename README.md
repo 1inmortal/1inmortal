@@ -1,66 +1,83 @@
-<!-- Banner animado -->
-<div align="center">
-  <img src="TU_GIF_INTRO.gif" alt="¡Bienvenido!" width="600" />
-</div>
+<!-- Banner principal -->
+<p align="center">
+  <img src="IMG/IMG_1362.gif" alt="Banner Animado" width="600"/>
+</p>
 
-#  ¡Bienvenido a mi espacio digital!  
-**Full-Stack Developer | Creador de Soluciones Escalables | Apasionado por la Innovación**
+<h1 align="center">✨ Bienvenido a mi perfil ✨</h1>
 
-¡Soy Armando Espinosa! 🚀  
-Estudiante de Ingeniería en Computación con pasión por crear experiencias integrales usando Nest.js, Angular y tecnologías full-stack.
-
----
-
-##  Conecta conmigo  
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/INM0RTAl)  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy me a coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/inmortal)
+<p align="center">
+  <b>💻 Full-Stack Developer | 🚀 Creador de Soluciones Escalables | 🌐 Apasionado por la Innovación</b>
+</p>
 
 ---
 
-##  Tech Stack  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
----
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
----
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
----
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)  
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+# 💫 Sobre mí  
+🌟 Apasionado por el **desarrollo de software**, con experiencia en **front-end** y **back-end**, siempre en busca de soluciones escalables y eficientes.  
+🎓 Estudiante de **Ingeniería en Computación**, enfocado en resolver problemas complejos y construir sistemas funcionales.  
+📚 En constante aprendizaje, explorando tecnologías como **Nest.js**, **Angular** y el ecosistema **full-stack**.  
+🤝 Comprometido con proyectos **open-source** y con la comunidad dev.  
 
 ---
 
-##  Logros & Widgets
-
-### Trofeos en GitHub  
-[![Trophy](https://github-profile-trophy.vercel.app/?username=1inmortal&theme=tokyonight&title=ffffff&text=00ffcc&bg=000000)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### Estadísticas Visuales  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1inmortal&theme=tokyonight&show_icons=true)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=1inmortal&theme=tokyonight)
+## 🏆 Logros & Trofeos
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=1inmortal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+</p>
 
 ---
 
-### Repositorios destacados  
-<!-- Aquí pones manualmente tus repos favoritos o más activos -->
+## 🌐 Conecta conmigo  
+<p align="center">
+  <a href="https://codepen.io/INM0RTAl">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+  </a>
+  <a href="https://buymeacoffee.com/inmortal">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
-### Hobby & Curiosidades  
-- Me encanta aprender y compartir conocimientos a través de contenido educativo en redes.  
-- Participo activamente en proyectos **open-source**, siempre buscando colaborar y crecer.
+# 💻 Tech Stack  
+
+<p align="center">
+  <!-- Lenguajes -->
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,php"/>
+  <!-- Web -->
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flutter"/>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql"/>
+  <!-- Herramientas -->
+  <img src="https://skillicons.dev/icons?i=github,powershell,blender,ps"/>
+</p>
 
 ---
 
-#### Gracias por pasar por aquí  ¡Vamos a transformar ideas en código!
+# 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1inmortal&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1inmortal&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1inmortal&theme=radical&hide_border=true&layout=compact"/>
+</p>
+
+---
+
+### 🔝 Repositorios más contribuidos  
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=1inmortal&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+## 📈 Visitas al perfil  
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=1inmortal&icon=2&color=12"/>
+</p>
+
+---
+
+<!-- Plantilla personalizada con ❤️ por inmortal -->
