@@ -9,7 +9,7 @@
   <b>Full-Stack Developer | Creador de Soluciones Escalables | Apasionado por la Innovación</b>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=1inmortal&theme=tokyonight&title=ffffff&text=00ffcc&bg=000000)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/1inmortal)
 ---
 
 # 💫 Sobre mí  
