@@ -9,6 +9,8 @@
   <b>Full-Stack Developer | Creador de Soluciones Escalables | Apasionado por la Innovación</b>
 </p>
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/1inmortal)
 ---
 
 # 💫 Sobre mí  
