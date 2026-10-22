@@ -53,136 +53,58 @@ PR abierta para reemplazar un elemento `<detail>` inválido por el elemento nati
 
 [Ver PR #2](https://github.com/SubodhSuralkar/Eminence-in-shadow/pull/2)
 
-## Tecnologías y herramientas
+## Stack tecnológico y herramientas
 
-Insignias visuales para tecnologías que aparecen en mis proyectos, documentación y portafolio. El estado de cada herramienta depende del proyecto; no implican por sí solas una certificación o nivel de dominio.
+Las tecnologías de cada sección se apoyan en los proyectos, repositorios y capacidades que aparecen en mi portafolio. El listado describe áreas de trabajo; no asigna niveles de dominio.
 
-### Aplicaciones web e interfaces
+### Stack principal
 
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-111111?style=flat-square&logo=threedotjs&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
-![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=111111)
-![Lenis](https://img.shields.io/badge/Lenis-111111?style=flat-square)
-
-</div>
-
-### IA, Python y visión por computadora
-
-<div align="center">
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=ultralytics&logoColor=white)
-![YOLO11](https://img.shields.io/badge/YOLO11-111F68?style=flat-square&logo=ultralytics&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![NCNN](https://img.shields.io/badge/NCNN-222222?style=flat-square)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![ByteTrack](https://img.shields.io/badge/ByteTrack-6C3483?style=flat-square)
-![FastTracker](https://img.shields.io/badge/FastTracker-6C3483?style=flat-square)
-![Real-ESRGAN](https://img.shields.io/badge/Real--ESRGAN-4B0082?style=flat-square)
-
-</div>
-
-### Backend, datos y fiscal
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![K-Means](https://img.shields.io/badge/K--Means-00897B?style=flat-square)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-![GPS NMEA](https://img.shields.io/badge/GPS_NMEA-455A64?style=flat-square)
-
-</div>
-
-### C++, video y tiempo real
-
-<div align="center">
-
 ![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=ultralytics&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-111111?style=flat-square&logo=threedotjs&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
-![Dear ImGui](https://img.shields.io/badge/ImGui-222222?style=flat-square)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![MediaMTX](https://img.shields.io/badge/MediaMTX-263238?style=flat-square)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-![RTMP](https://img.shields.io/badge/RTMP-00599C?style=flat-square)
-![RTSP](https://img.shields.io/badge/RTSP-00599C?style=flat-square)
-![HLS](https://img.shields.io/badge/HLS-007AFF?style=flat-square)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-</div>
-
-### Infraestructura, pruebas y entorno de trabajo
-
-<div align="center">
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![CodeQL](https://img.shields.io/badge/CodeQL-181717?style=flat-square&logo=github&logoColor=white)
-![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?style=flat-square&logo=dependabot&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Rollup](https://img.shields.io/badge/Rollup-EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=white)
-![esbuild](https://img.shields.io/badge/esbuild-FFCF00?style=flat-square)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=111111)
-![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white)
-![DOMPurify](https://img.shields.io/badge/DOMPurify-1B6AC6?style=flat-square)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111)
-![Zsh](https://img.shields.io/badge/Zsh-89E051?style=flat-square&logo=zsh&logoColor=111111)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows11&logoColor=white)
-
-</div>
-
-### Hardware e IoT en exploración
-
-<div align="center">
-
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
-![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
-![nRF24L01+](https://img.shields.io/badge/nRF24L01%2B-455A64?style=flat-square)
-![PSP Homebrew](https://img.shields.io/badge/PSP--3000-HOMEBREW-003791?style=flat-square&logo=playstation&logoColor=white)
 
 </div>
 
-### Laboratorio personal — en investigación
+### Web, frontend y experiencia visual
 
-- **PSP-3000 y homebrew:** planificación del flujo de trabajo por USB en Windows para una consola con custom firmware.
-- **ESP32 + nRF24L01+:** diseño conceptual de un receptor pasivo de actividad en 2.4 GHz, con SPI y pantalla; sin transmisión de interferencia.
+**HTML5 · CSS3 · JavaScript · TypeScript · React · Next.js · Angular · Tailwind CSS · Vite · Three.js · WebGL · GLSL · GSAP · Lenis**
+
+### Python, IA y visión por computadora
+
+**Python · PyTorch · YOLOv8 · YOLO11 · OpenCV · ONNX · TensorRT · NCNN · NumPy · ByteTrack · FastTracker · Real-ESRGAN**
+
+### Backend, datos y sistemas fiscales
+
+**Node.js · FastAPI · Flask · APIs REST · PostgreSQL · SQLite · SQL · Redis · XML/XSD · CFDI 4.0 · firma digital RSA/SHA-256 · K-Means · Leaflet.js · GPS/NMEA**
+
+### C++, multimedia y tiempo real
+
+**C++17 · CMake · FFmpeg · OpenGL · Dear ImGui · CUDA (ruta gráfica) · MediaMTX · RTMP · RTSP · WebRTC · HLS · WebSocket/Socket.IO**
+
+### Infraestructura, pruebas y seguridad
+
+**Docker · Kubernetes · AWS · Google Cloud · Vercel · Cloudflare · Git · GitHub Actions · CodeQL · Dependabot · Snyk · Vitest · pytest · Rollup · esbuild · Babel · PostCSS · DOMPurify**
+
+### Entorno, integración y hardware
+
+**VS Code · Linux/Zsh · Windows · PowerShell · SAP (integración funcional) · Arduino · ESP32/ESP-IDF · MQTT**
+
+**En exploración:** nRF24L01+ con ESP32 para recepción y análisis pasivo de 2.4 GHz; PSP-3000 con custom firmware y flujo homebrew por USB en Windows.
 
 ## Credenciales profesionales
 
