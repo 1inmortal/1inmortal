@@ -398,31 +398,9 @@ Explora más de mis proyectos open-source, experimentos con tecnologías emergen
 
 </div>
 
-### 🎯 Key Metrics
+### 📊 Estadísticas del perfil
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px; margin: 20px 0;">
-
-<div style="background: linear-gradient(135deg, rgba(18, 247, 215, 0.15) 0%, rgba(122, 127, 255, 0.15) 100%); padding: 20px; border-radius: 12px; text-align: center;">
-  <h4 style="margin: 0 0 15px 0; color: #12F7D7;">📊 Performance Indicators</h4>
-  <div style="display: flex; flex-direction: column; gap: 8px; color: #ccc; font-size: 0.9em;">
-    <div>⭐ Total Stars: <strong style="color: #FFD93D;">4+ repositories</strong></div>
-    <div>👥 Followers: <strong style="color: #7A7FFF;">Growing community</strong></div>
-    <div>📦 Public Repos: <strong style="color: #12F7D7;">4</strong></div>
-    <div>🔥 Contribution Streak: <strong style="color: #FF4D6D;">Consistent</strong></div>
-  </div>
-</div>
-
-<div style="background: linear-gradient(135deg, rgba(122, 127, 255, 0.15) 0%, rgba(255, 77, 109, 0.15) 100%); padding: 20px; border-radius: 12px; text-align: center;">
-  <h4 style="margin: 0 0 15px 0; color: #7A7FFF;">✨ Code Quality</h4>
-  <div style="display: flex; flex-direction: column; gap: 8px; color: #ccc; font-size: 0.9em;">
-    <div>📝 Clean Code: <strong style="color: #12F7D7;">SOLID principles</strong></div>
-    <div>🧪 Test Coverage: <strong style="color: #FF4D6D;">Unit + Integration</strong></div>
-    <div>📚 Documentation: <strong style="color: #FFD93D;">Comprehensive</strong></div>
-    <div>🔄 Maintenance: <strong style="color: #12F7D7;">Active updates</strong></div>
-  </div>
-</div>
-
-</div>
+Las tarjetas automáticas de arriba muestran tus estadísticas actuales de GitHub y evitan duplicar cifras manuales que pueden quedar desactualizadas.
 
 <br>
 
@@ -759,6 +737,6 @@ Formato Preferido: Issues de GitHub para temas técnicos
 <br>
 
 ![Made with Love](https://img.shields.io/badge/Made_with-❤️-red?style=for-the-badge)
-![Last Updated](https://img.shields.io/badge/Last_Updated-2025-12F7D7?style=for-the-badge)
+![Profile updated](https://img.shields.io/github/last-commit/1inmortal/1inmortal?label=Profile%20updated&style=for-the-badge&color=12F7D7)
 
 </div>
