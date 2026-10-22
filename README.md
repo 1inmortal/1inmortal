@@ -146,8 +146,17 @@ Insignias visuales para tecnologías que aparecen en mis proyectos, documentaci�
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![CodeQL](https://img.shields.io/badge/CodeQL-181717?style=flat-square&logo=github&logoColor=white)
+![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?style=flat-square&logo=dependabot&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Rollup](https://img.shields.io/badge/Rollup-EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=white)
+![esbuild](https://img.shields.io/badge/esbuild-FFCF00?style=flat-square)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=111111)
+![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white)
+![DOMPurify](https://img.shields.io/badge/DOMPurify-1B6AC6?style=flat-square)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111)
 ![Zsh](https://img.shields.io/badge/Zsh-89E051?style=flat-square&logo=zsh&logoColor=111111)
@@ -161,6 +170,7 @@ Insignias visuales para tecnologías que aparecen en mis proyectos, documentaci�
 <div align="center">
 
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
@@ -168,6 +178,11 @@ Insignias visuales para tecnologías que aparecen en mis proyectos, documentaci�
 ![PSP Homebrew](https://img.shields.io/badge/PSP--3000-HOMEBREW-003791?style=flat-square&logo=playstation&logoColor=white)
 
 </div>
+
+### Laboratorio personal — en investigación
+
+- **PSP-3000 y homebrew:** planificación del flujo de trabajo por USB en Windows para una consola con custom firmware.
+- **ESP32 + nRF24L01+:** diseño conceptual de un receptor pasivo de actividad en 2.4 GHz, con SPI y pantalla; sin transmisión de interferencia.
 
 ## Credenciales profesionales
 
