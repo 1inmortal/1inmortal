@@ -36,7 +36,7 @@ Soy desarrollador web y técnico en TI. Trabajo en proyectos personales que van 
 | **INMORTAL_OS — Portafolio web** | Portafolio personal para presentar trabajo, experiencia e intereses técnicos. | HTML · CSS · JavaScript · GitHub Pages | [Ver sitio](https://1inmortal.github.io/web-inmortal/) · [Código](https://github.com/1inmortal/web-inmortal) |
 | **githubpagetest — Web y laboratorio** | Sitio publicado y espacio de trabajo con experimentos y aplicaciones web. El repositorio también contiene proyectos con JavaScript y Python. | Vite · JavaScript · React · Vitest · pytest | [Ver sitio](https://1inmortal.github.io/githubpagetest/) · [Código](https://github.com/1inmortal/githubpagetest) |
 | **Drone YOLO11 Tracker** | Visor de video con detección y seguimiento de objetos, telemetría y procesamiento visual para streams de drones. | Python · YOLO11 · ByteTrack · OpenCV · MediaMTX · TensorRT | [Ver proyecto](https://github.com/1inmortal/drone-yolo-tracker) |
-| **Contribución de accesibilidad** | PR para corregir el marcado de раскрыгables de recetas usando el elemento HTML nativo `<details>` y un resumen claro. | HTML · accesibilidad · GitHub | [PR #2 abierta](https://github.com/SubodhSuralkar/Eminence-in-shadow/pull/2) |
+| **Contribución de accesibilidad** | PR para corregir el marcado de secciones desplegables en recetas usando el elemento HTML nativo `<details>` y un resumen claro. | HTML · accesibilidad · GitHub | [PR #2 abierta](https://github.com/SubodhSuralkar/Eminence-in-shadow/pull/2) |
 
 ### Exploraciones técnicas de 2026
 
